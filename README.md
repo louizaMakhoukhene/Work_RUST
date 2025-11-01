@@ -1,1 +1,1 @@
-# CE depot contient plusieurs exercices sur RUST 
+# Depot contient plusieurs exercices sur RUST 
