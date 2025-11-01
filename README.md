@@ -1,2 +1,1 @@
-# conversion_temp-rature
-jeux de conversion entre les unités de températures 
+# CE depot contient plusieurs exercices sur RUST 
